@@ -27,7 +27,7 @@ statfs /some/path
 ```
 
 
-### Sample Usage
+## Sample Usage
 
 ```console
 # df -h /usr

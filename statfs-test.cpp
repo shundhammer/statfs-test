@@ -32,4 +32,6 @@ int main( int argc, char *argv[] )
     cout << "  free  blocks:     " << fs.f_bfree  << endl;
     cout << "  available blocks: " << fs.f_bavail << endl;
     cout << "  fragment size:    " << fs.f_frsize << endl;
+
+    return 0;
 }

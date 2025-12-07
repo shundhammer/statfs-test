@@ -29,7 +29,8 @@ statfs /some/path
 
 ### Sample Usage
 
-```console# df -h /usr
+```console
+# df -h /usr
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/nvme0n1p3   98G   14G   83G  14% /
 
